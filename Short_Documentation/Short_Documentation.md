@@ -1,6 +1,6 @@
 # Short Documentationn
 
-### 2. Short Documentation about Architecture & Tech Stack, and Location/Rationale of the Flaw
+### 2. Short Documentation about Architecture & Tech Stack, and Location/Rationale of the Flaw 
 
 **Architecture & Tech Stack:**
 
