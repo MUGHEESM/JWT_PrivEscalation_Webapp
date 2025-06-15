@@ -1,12 +1,6 @@
 # JWT_PrivEscalation_Webapp
 Minimal web app using JWT (RFC 7519) with a deliberate access-control flaw allowing privilege escalation via token manipulation.
 
-### JWT Privilege Escalation Demo Application
-
----
-
-This is a minimal web application demonstrating JSON Web Token (JWT) based session management and a deliberately introduced access-control flaw that enables privilege escalation.
-
 ## Table of Contents
 
 - Features
